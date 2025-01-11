@@ -1,0 +1,42 @@
+```csv
+key,source,target
+core.folia.chat.format,%rank_prefix%%display_name% &8&l> %rank_suffix%%message%
+core.folia.command.invalid-page,&cInvalid page!
+core.folia.command.language.available-languages,"&7Available languages:\n&e%languages%"
+core.folia.command.language.success,&eYour language is now changed to: %language%
+core.folia.command.player-list,%players%
+core.folia.command.player-list-header,&a===== %total_players% online (Page %page% of %total_pages%) =====
+core.folia.common.broadcast.usage,&cInvalid command: /%command% <message>
+core.folia.common.language.usage,&cInvalid command: /%command% <language>
+core.folia.common.mail.usage,&cInvalid command: /%command% <read|clear|send> <message>
+core.folia.common.msg.usage,&cInvalid command: /%command% <player> <message>
+core.folia.essentials.afk.notify,&7%player% is now AFK!
+core.folia.essentials.afk.notify-back,&7%player% is no longer AFK
+core.folia.essentials.command.age.success,&aYou registered on &e%time% &a(%time_precise%)
+core.folia.essentials.command.age.target.success,&a%player% registered on &e%time% &a(%time_precise%)
+core.folia.essentials.command.broadcast.format,&b&lMODERNBETA &f%text%
+core.folia.essentials.command.seen.success,&a%player% last seen on &e%last_seen% &a(%last_seen_precise%)
+core.folia.essentials.common.invalid-nickname,&cInvalid nickname
+core.folia.essentials.core-reload,&aCore reloaded
+core.folia.essentials.join,&e%name% joined the game
+core.folia.essentials.mail.cannot-send-to-self,&cYou cannot send mail to yourself
+core.folia.essentials.mail.cleared,&6Your mailbox has been cleared
+core.folia.essentials.mail.error,&cSomething went wrong while sending a mail
+core.folia.essentials.mail.full,&cThe mailbox of %recipient% is full. They cannot receive new messages.
+core.folia.essentials.mail.invalid-page,&cInvalid page number
+core.folia.essentials.mail.invalid-page-number,&cInvalid page number. Valid pages are 1 to %total_pages%
+core.folia.essentials.mail.mailbox-full,&cYou have reached the mailbox limit of %limit% messages. Please clear some messages to receive new ones!
+core.folia.essentials.mail.message,&f[%date%] &7[From %sender%]: &f%message%
+core.folia.essentials.mail.new-mail,&cYou have %count% new message(s). Use /mail read to view it.
+core.folia.essentials.mail.next-page,&aUse /mail read <page> to view the next page.
+core.folia.essentials.mail.no-mail,&cYou have no new messages
+core.folia.essentials.mail.no-mail-to-clear,&cYour mailbox is already empty!
+core.folia.essentials.mail.pagination,&aMailbox (Page %page%/%total_pages%)
+core.folia.essentials.mail.received,&eYou have received a new message from %sender%
+core.folia.essentials.mail.recipient-not-found,&cRecipient not found
+core.folia.essentials.mail.sent,&aMail successfully sent to %recipient%.
+core.folia.essentials.me,&f ** %player%: %message% 
+core.folia.essentials.msg.sender,&5&l[Private]&d to %to% &8&l> &d%message%
+core.folia.essentials.quit,&e%name% left the game
+
+```
