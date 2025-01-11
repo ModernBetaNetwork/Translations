@@ -1,0 +1,3 @@
+files:
+  - source: message.txt
+    translation: '%locale_with_underscore%'
